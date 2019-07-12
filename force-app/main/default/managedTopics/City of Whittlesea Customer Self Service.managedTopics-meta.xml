@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics xmlns="http://soap.sforce.com/2006/04/metadata">
+    <managedTopic>
+        <fullName>City of Whittlesea Customer Self Service.Featured:Building, Planning and Development</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Building, Planning and Development</name>
+        <parentName/>
+        <position>1</position>
+        <topicDescription>Building, Planning and Development</topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>City of Whittlesea Customer Self Service.Featured:Waste &amp; Environment</fullName>
+        <managedTopicType>Featured</managedTopicType>
+        <name>Waste &amp; Environment</name>
+        <parentName/>
+        <position>0</position>
+        <topicDescription/>
+    </managedTopic>
+    <managedTopic>
+        <fullName>City of Whittlesea Customer Self Service.Navigational:Building, Planning and Development</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Building, Planning and Development</name>
+        <parentName/>
+        <position>1</position>
+        <topicDescription>Building, Planning and Development</topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>City of Whittlesea Customer Self Service.Navigational:Waste &amp; Environment</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Waste &amp; Environment</name>
+        <parentName/>
+        <position>0</position>
+        <topicDescription/>
+    </managedTopic>
+</ManagedTopics>

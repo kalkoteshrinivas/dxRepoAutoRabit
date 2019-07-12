@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Bins and waste</label>
+            <name>bins_and_waste</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Waste and recycling facilities</label>
+            <name>waste_and_recycling_facilities</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Living Green</label>
+            <name>living_green</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Stormwater and rainwater</label>
+            <name>stormwater_and_rainwater</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Trees and plants</label>
+            <name>trees_and_plants</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Waste &amp; Environment</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

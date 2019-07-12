@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Building and construction approvals</label>
+            <name>Building_and_construction_approvals</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Planning permits</label>
+            <name>Planning_permits</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Standard drawings and engineering guidel</label>
+            <name>Standard_drawings_and_engineering_guidel</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Planning Scheme and Amendments</label>
+            <name>Planning_Scheme_and_Amendments</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Building, Planning &amp; Development</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>
