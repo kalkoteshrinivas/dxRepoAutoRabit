@@ -1,4 +1,4 @@
-public with sharing class DummyClass {
+public with sharing class DummyClass{
 
     public DummyClass()
     {
