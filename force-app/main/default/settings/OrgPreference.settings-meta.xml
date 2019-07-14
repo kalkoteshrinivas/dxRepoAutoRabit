@@ -21,10 +21,6 @@
         <settingValue>false</settingValue>
     </preferences>  
     <preferences>
-        <settingName>ChannelAccountHierarchyPref</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
         <settingName>ActivityAnalyticsEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>

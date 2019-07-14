@@ -1,1 +1,8 @@
-/force-app/main/default/dashboards/*
+/force-app/main/default/dashboards/
+/force-app/main/default/moderation/*
+/force-app/main/default/servicePresenceStatuses/*
+/force-app/main/default/quickActions/NewCommunityCase.quickAction
+/force-app/main/default/quickActions/Case.SendEmail.quickAction 
+/force-app/main/default/quickActions/SocialPost.SocialPublisher.quickAction
+quickActions/Quote.SendEmail.quickAction
+quickActions/Case.SocialPublisher.quickAction

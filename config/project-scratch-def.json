@@ -3,6 +3,6 @@
     "edition": "Developer",
     "features": ["Communities", "Sites", "Knowledge"],
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "omniChannelSettings"]
+        "enabled": ["S1DesktopEnabled", "omniChannelSettings", "IsQuoteEnabled", ""]
     }
 }

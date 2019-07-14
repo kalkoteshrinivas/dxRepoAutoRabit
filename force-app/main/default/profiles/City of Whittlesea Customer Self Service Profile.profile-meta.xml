@@ -1262,11 +1262,7 @@
         <field>Order.PoNumber</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Order.QuoteId</field>
-        <readable>false</readable>
-    </fieldPermissions>
+    
     <fieldPermissions>
         <editable>false</editable>
         <field>Order.ShipToContactId</field>
